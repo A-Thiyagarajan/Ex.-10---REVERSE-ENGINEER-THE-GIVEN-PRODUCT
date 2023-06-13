@@ -36,8 +36,8 @@
 ### Output:
 <img src="241863227-3f4383d0-dea7-4ff7-b70e-ed1eb6bd8f54.png" width="250" height="450">
 
-### Name              : Sam Israel D
-### Register Number   : 212222230128
+### Name              : Thiyagarajan A
+### Register Number   : 212222240110
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
